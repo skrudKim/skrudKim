@@ -1,4 +1,4 @@
-<h1 align="center">👾 Welcome to YourGitHubUsername.github 👾</h1>
+<h1 align="center">👾 Welcome to skrudKim.github 👾</h1>
 <h3 align="center">Backend Developer | Java / Spring / DB | Curious & Constantly Learning</h3>
 
 <br/>
